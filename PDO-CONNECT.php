@@ -3,7 +3,7 @@
 //host, dbname , user, password
 
 $host = "localhost";
-$dbname = "zoya"; //your database name here
+$dbname = "zoy"; //your database name here
 $user ="root" ; 	//username of your mysql server
 $password=""; 	  	  //password for the username above
 
