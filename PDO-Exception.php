@@ -16,4 +16,4 @@ try {
     die("<div style=text-align:center;font-size:24px>There is an error!! <br>"."<p style=color:red>". $th->getMessage()."</p></div>");
 }
 
-echo "here's the rest of the page"; //if used die() then after rest of code doesn't work
+//echo "here's the rest of the page"; //if used die() then after rest of code doesn't work
